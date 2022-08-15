@@ -24,3 +24,6 @@ Id,SalePrice
 1463,175221
 etc.
 `
+
+## Solución
+La solución se encuentra en este repositorio en formato csv. Se deja un notebook con la explicación detallada de lo que se hizo.
