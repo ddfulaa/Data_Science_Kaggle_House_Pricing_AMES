@@ -26,5 +26,5 @@ etc.
 `
 
 ## Solución
-La solución se encuentra en este repositorio en formato csv. Se deja un notebook con la explicación detallada de lo que se hizo. Puede consultarla en el enlace [siguiente](https://github.com/ddfulaa/Data_Science_Kaggle_House_Pricing_AMES/blob/main/Precio%20de%20casas%20-%20Competencia%20de%20Kaggle.ipynb).
+La solución se encuentra en este repositorio en formato csv. Se deja un notebook con la explicación detallada de lo que se hizo. Puede consultarla en [este enlace](https://nbviewer.org/github/ddfulaa/Data_Science_Kaggle_House_Pricing_AMES/blob/main/Precio%20de%20casas%20-%20Competencia%20de%20Kaggle.ipynb).
 
